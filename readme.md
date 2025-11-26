@@ -296,11 +296,3 @@ Sinta-se à vontade para contribuir com melhorias:
 ## 📄 Licença
 
 Este projeto é livre para uso pessoal e educacional.
-
-## ⚠️ Aviso Legal
-
-Este sistema é apenas uma ferramenta de organização. Certifique-se de ter os direitos apropriados para acessar e reproduzir qualquer conteúdo de streaming.
-
----
-
-**Desenvolvido com ❤️ usando React, Node.js e Express**
